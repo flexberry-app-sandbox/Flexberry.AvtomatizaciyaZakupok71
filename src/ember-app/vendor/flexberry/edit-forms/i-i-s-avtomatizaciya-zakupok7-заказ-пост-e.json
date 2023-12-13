@@ -1,0 +1,55 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Организации",
+      "projection": "ОрганизацииL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Склады",
+      "projection": "СкладыL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Контрагенты",
+      "projection": "КонтрагентыL",
+      "detailModelName": null
+    },
+    {
+      "master": "номенклатура",
+      "displayAttributeName": "номенклатура",
+      "required": true,
+      "relationName": "Заказ.Номенклатура",
+      "projection": "НоменклатураL",
+      "detailModelName": "i-i-s-avtomatizaciya-zakupok7-т-ч-заказ"
+    },
+    {
+      "master": "номенклатура",
+      "displayAttributeName": "номенклатура",
+      "required": true,
+      "relationName": "ТчОтчет.Номенклатура",
+      "projection": "НоменклатураL",
+      "detailModelName": "i-i-s-avtomatizaciya-zakupok7-тч-отчет"
+    }
+  ],
+  "external": false,
+  "caption": "Заказ пост",
+  "name": "IISAvtomatizaciya_zakupok7ЗаказПостE",
+  "className": "ЗаказПостE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok7-заказ-пост",
+      "modelProjection": "ЗаказПостE"
+    }
+  ]
+}

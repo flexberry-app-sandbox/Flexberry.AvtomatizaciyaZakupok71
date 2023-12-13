@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISAvtomatizaciya_zakupok7Организации",
+  "modelName": "i-i-s-avtomatizaciya-zakupok7-организации",
+  "className": "Организации",
+  "nameSpace": "IIS.Avtomatizaciya_zakupok7",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "организация",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ОрганизацииE",
+      "modelName": "i-i-s-avtomatizaciya-zakupok7-организации",
+      "attrs": [
+        {
+          "name": "организация",
+          "caption": "Организация",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ОрганизацииL",
+      "modelName": "i-i-s-avtomatizaciya-zakupok7-организации",
+      "attrs": [
+        {
+          "name": "организация",
+          "caption": "Организация",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

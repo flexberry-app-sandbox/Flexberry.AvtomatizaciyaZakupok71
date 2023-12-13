@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-avtomatizaciya-zakupok7-отчет-о-зак-e",
+  "editForm": "i-i-s-avtomatizaciya-zakupok7-отчет-о-зак-e",
+  "external": false,
+  "caption": "Отчет о зак",
+  "name": "IISAvtomatizaciya_zakupok7ОтчетОЗакL",
+  "className": "ОтчетОЗакL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok7-отчет-о-зак",
+      "modelProjection": "ОтчетОЗакL"
+    }
+  ]
+}

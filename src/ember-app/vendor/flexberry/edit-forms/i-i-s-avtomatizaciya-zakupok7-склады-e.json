@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Склады",
+  "name": "IISAvtomatizaciya_zakupok7СкладыE",
+  "className": "СкладыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avtomatizaciya-zakupok7-склады",
+      "modelProjection": "СкладыE"
+    }
+  ]
+}

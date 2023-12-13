@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Avtomatizaciya_zakupok7",
+  "applicationTitle": "Avtomatizaciya_zakupok7",
+  "items": [
+    {
+      "link": null,
+      "menuName": "avtomatizaciya-zakupok7",
+      "caption": "Avtomatizaciya_zakupok7",
+      "title": "Avtomatizaciya_zakupok7",
+      "children": [
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-номенклатура-l",
+          "menuName": null,
+          "caption": "Номенклатура",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-заказ-пост-l",
+          "menuName": null,
+          "caption": "Заказ пост",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-склады-l",
+          "menuName": null,
+          "caption": "Склады",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-контрагенты-l",
+          "menuName": null,
+          "caption": "Контрагенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-план-закупок-l",
+          "menuName": null,
+          "caption": "План закупок",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-организации-l",
+          "menuName": null,
+          "caption": "Организации",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-отчет-о-зак-l",
+          "menuName": null,
+          "caption": "Отчет о зак",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-avtomatizaciya-zakupok7-единицы-измер-l",
+          "menuName": null,
+          "caption": "Единицы измер",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
